@@ -6,6 +6,7 @@ This repository showcases my hands-on IT Support skills, troubleshooting experie
 The portfolio demonstrates my ability to diagnose technical issues, document solutions, assist users, and apply structured problem-solving techniques in IT environments.
 
 Author
+
 Zoleka Mahlobogoana
 
 CompTIA Security+ | CompTIA Network+ | CompTIA A+ (In Progress)
