@@ -9,6 +9,5 @@ Author
 
 Zoleka Mahlobogoana
 
-Diploma: Advertising | CompTIA Security+ | CompTIA Network+ | CompTIA A+ (In Progress)
 GitHub: https://github.com/calmness24
 LinkedIn: https://www.linkedin.com/in/zoleka-m-9a77b9184
