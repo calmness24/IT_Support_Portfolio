@@ -7,7 +7,6 @@ The portfolio demonstrates my ability to diagnose technical issues, document sol
 
 Author
 Zoleka Mahlobogoana
-
 CompTIA Security+ | CompTIA Network+ | CompTIA A+ (In Progress)
 GitHub: https://github.com/calmness24
 LinkedIn: https://www.linkedin.com/in/zoleka-m-9a77b9184
