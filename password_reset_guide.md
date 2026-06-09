@@ -15,3 +15,27 @@ Restore account access securely while following password management best practic
 3. Initiate the password reset process.
 4. Provide the user with password creation requirements.
 5. Confirm that the user can successfully log in after resetting the password. 
+
+# Resolution 
+
+The user's password was successfully rest, and account access was restored.
+
+## Lessons Learned
+
+- Verify user identity before making account changes.
+- Encourage the use of strong passwords.
+- Recommend password managers where appropriate.
+- Follow security policies when handling user accounts.
+
+
+
+
+
+
+
+
+
+
+
+
+
