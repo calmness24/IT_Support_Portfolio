@@ -16,3 +16,14 @@ Identify and resolve common printer issues to restore printing functionality.
 4. Ensure the correct printer is selected as the default printer.
 5. Restart the printer and computer.
 6. Print a test page to verify functionality.
+
+## Resolution 
+
+The printer connection was verified, the device was restarted, and a successful test page was printed.
+
+## Lessons Learned
+
+- Check basic connectivity before performing advanced troubleshooting.
+- Verify that the correct printer is selected.
+- Review printer error messages for clues to the problem.
+- Test functionality after each troubleshooting step.
