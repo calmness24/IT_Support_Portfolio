@@ -17,3 +17,14 @@ Identify and resolve common network connectivity issues to restore access to the
 5. Restart the network adapter or reconnect to the Wi-Fi network.
 6. Restart the router or switch if appropriate.
 7. Test internet access by opening a website.
+
+## Resolution
+
+The network connection was restored after verifying connectivity settings and re-establishing access to the network.
+
+## Lessons Learned
+
+- Always determine whether the issue affects a single user or multiple users.
+- Check physical and wireless connections before advanced troubleshooting.
+- Verify IP configuration when diagnosing connectivity issues.
+- Use basic network tools such as ping to identify connection problems.
